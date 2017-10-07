@@ -35,3 +35,5 @@ Today I Learnt
 - learnt how to [pass parameters into script tags](https://stackoverflow.com/questions/16098397/pass-variables-to-javascript-in-expressjs)
 #### End
 - `ctr`+`alt`+`f1` switches you to a virtual terminal, [READ THIS](https://askubuntu.com/questions/474932/help-i-broke-ubuntu-by-uninstalling-compiz) for ubuntu OS breaks
+- [Express generator steps](https://expressjs.com/en/starter/generator.html)
+- [node_redis](https://github.com/NodeRedis/node_redis)
