@@ -7,3 +7,6 @@ Today I Learnt
 - [elxir postgres practice](http://www.glydergun.com/diving-into-ecto/)
 - the power of xargs, -> xargs -p -L 1 mix ecto.gen.migration < migrations
 - [Foreign keys can be null](http://searchoracle.techtarget.com/answer/What-is-a-primary-key-Composite-PK-Foreign-key-Tuple)
+- make multiple files with -> touch {x,y].txt
+- [check browser support](https://caniuse.com/)
+- [naive_datetime in Ecto](https://github.com/elixir-ecto/ecto/issues/1466))
