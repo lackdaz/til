@@ -37,3 +37,5 @@ Today I Learnt
 - `ctr`+`alt`+`f1` switches you to a virtual terminal, [READ THIS](https://askubuntu.com/questions/474932/help-i-broke-ubuntu-by-uninstalling-compiz) for ubuntu OS breaks
 - [Express generator steps](https://expressjs.com/en/starter/generator.html)
 - [node_redis](https://github.com/NodeRedis/node_redis)
+- [Ecto.Query.API.left_in_right is **really** useful](https://hexdocs.pm/ecto/Ecto.Query.API.html#in/2)
+- `distinct: foo.bar` to find unique entries[Ecto.Query](https://hexdocs.pm/ecto/Ecto.Query.html#content)
