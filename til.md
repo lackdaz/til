@@ -38,6 +38,7 @@ Today I Learnt
 - [Express generator steps](https://expressjs.com/en/starter/generator.html)
 - [node_redis](https://github.com/NodeRedis/node_redis)
 - [Ecto.Query.API.left_in_right is **really** useful](https://hexdocs.pm/ecto/Ecto.Query.API.html#in/2)
-- `distinct: foo.bar` to find unique entries[Ecto.Query](https://hexdocs.pm/ecto/Ecto.Query.html#content)
+- `distinct: foo.bar` to find unique entries [Ecto.Query](https://hexdocs.pm/ecto/Ecto.Query.html#content)
 - [An ExUnit beginner's cheatsheet](http://blog.lucidsimple.com/2016/01/31/exunit-cheat-sheet.html)
 Phoenix form helpers are at [Phoenix.HTML](https://hexdocs.pm/phoenix_html/Phoenix.HTML.Form.html)
+- use `sudo syscallbypid.d` to trace for syscalls [Read More](https://apple.stackexchange.com/questions/178281/how-to-investigate-high-kernel-task-memory-usage)
