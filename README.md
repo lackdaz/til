@@ -12,6 +12,7 @@ Today I Learnt
 - [naive_datetime in Ecto](https://github.com/elixir-ecto/ecto/issues/1466)
 - Redis is a in-memory data structure store -> makes lookups fast
 - [Redis strings, hashes, sets and sorted sets](https://trello.com/c/chaFqznO)
+<<<<<<< HEAD
 - Changing Logger config level to reduce debug output [Read More](https://stackoverflow.com/questions/30297825/disable-elixir-ecto-debug-output)
 - How to convert big to little endian[SigFox](https://digmat.freshdesk.com/support/solutions/articles/16000061215-decoding-the-oyster-sigfox-payload-examples)
 - BigInteger can chain arithmetic, and very FP [GitHub](https://github.com/peterolson/BigInteger.js)
@@ -35,3 +36,10 @@ Today I Learnt
 - learnt how to [pass parameters into script tags](https://stackoverflow.com/questions/16098397/pass-variables-to-javascript-in-expressjs)
 #### End
 - `ctr`+`alt`+`f1` switches you to a virtual terminal, [READ THIS](https://askubuntu.com/questions/474932/help-i-broke-ubuntu-by-uninstalling-compiz) for ubuntu OS breaks
+- [Express generator steps](https://expressjs.com/en/starter/generator.html)
+
+- [node_redis](https://github.com/NodeRedis/node_redis)
+- [Ecto.Query.API.left_in_right is **really** useful](https://hexdocs.pm/ecto/Ecto.Query.API.html#in/2)
+- `distinct: foo.bar` to find unique entries[Ecto.Query](https://hexdocs.pm/ecto/Ecto.Query.html#content)
+- [An ExUnit beginner's cheatsheet](http://blog.lucidsimple.com/2016/01/31/exunit-cheat-sheet.html)
+Phoenix form helpers are at [Phoenix.HTML](https://hexdocs.pm/phoenix_html/Phoenix.HTML.Form.html)

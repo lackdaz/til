@@ -39,3 +39,5 @@ Today I Learnt
 - [node_redis](https://github.com/NodeRedis/node_redis)
 - [Ecto.Query.API.left_in_right is **really** useful](https://hexdocs.pm/ecto/Ecto.Query.API.html#in/2)
 - `distinct: foo.bar` to find unique entries[Ecto.Query](https://hexdocs.pm/ecto/Ecto.Query.html#content)
+- [An ExUnit beginner's cheatsheet](http://blog.lucidsimple.com/2016/01/31/exunit-cheat-sheet.html)
+Phoenix form helpers are at [Phoenix.HTML](https://hexdocs.pm/phoenix_html/Phoenix.HTML.Form.html)
