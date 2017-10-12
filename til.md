@@ -12,3 +12,6 @@ Today I Learnt
 - [naive_datetime in Ecto](https://github.com/elixir-ecto/ecto/issues/1466)
 - Redis is a in-memory data structure store -> makes lookups fast
 - [Redis strings, hashes, sets and sorted sets](https://trello.com/c/chaFqznO)
+- Changing Logger config level to reduce debug output [Read More](https://stackoverflow.com/questions/30297825/disable-elixir-ecto-debug-output)
+
+
