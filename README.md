@@ -7,3 +7,11 @@ Today I Learnt
 - [elxir postgres practice](http://www.glydergun.com/diving-into-ecto/)
 - the power of xargs, -> xargs -p -L 1 mix ecto.gen.migration < migrations
 - [Foreign keys can be null](http://searchoracle.techtarget.com/answer/What-is-a-primary-key-Composite-PK-Foreign-key-Tuple)
+- make multiple files with -> touch {x,y].txt
+- [check browser support](https://caniuse.com/)
+- [naive_datetime in Ecto](https://github.com/elixir-ecto/ecto/issues/1466)
+- Redis is a in-memory data structure store -> makes lookups fast
+- [Redis strings, hashes, sets and sorted sets](https://trello.com/c/chaFqznO)
+- Changing Logger config level to reduce debug output [Read More](https://stackoverflow.com/questions/30297825/disable-elixir-ecto-debug-output)
+
+

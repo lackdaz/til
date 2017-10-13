@@ -13,5 +13,4 @@ Today I Learnt
 - Redis is a in-memory data structure store -> makes lookups fast
 - [Redis strings, hashes, sets and sorted sets](https://trello.com/c/chaFqznO)
 - Changing Logger config level to reduce debug output [Read More](https://stackoverflow.com/questions/30297825/disable-elixir-ecto-debug-output)
-
-
+- How to convert big to little endian[SigFox](https://digmat.freshdesk.com/support/solutions/articles/16000061215-decoding-the-oyster-sigfox-payload-examples)
