@@ -17,3 +17,5 @@ Today I Learnt
 - BigInteger can chain arithmetic, and very FP [GitHub](https://github.com/peterolson/BigInteger.js)
 - Today I learn about docker [APIs](https://hub.docker.com/explore/)
 - Knex Query Builder [Docs](http://knexjs.org/#Builder)
+- HTTP Status Codes [Cheatsheet](https://httpstatuses.com/)
+- [Airbnb Style Guide](https://github.com/airbnb/javascript#variables) - great javascript style guide
