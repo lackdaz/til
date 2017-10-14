@@ -15,3 +15,5 @@ Today I Learnt
 - Changing Logger config level to reduce debug output [Read More](https://stackoverflow.com/questions/30297825/disable-elixir-ecto-debug-output)
 - How to convert big to little endian[SigFox](https://digmat.freshdesk.com/support/solutions/articles/16000061215-decoding-the-oyster-sigfox-payload-examples)
 - BigInteger can chain arithmetic, and very FP [GitHub](https://github.com/peterolson/BigInteger.js)
+- Today I learn about docker [APIs](https://hub.docker.com/explore/)
+- Knex Query Builder [Docs](http://knexjs.org/#Builder)
