@@ -19,3 +19,9 @@ Today I Learnt
 - Knex Query Builder [Docs](http://knexjs.org/#Builder)
 - HTTP Status Codes [Cheatsheet](https://httpstatuses.com/)
 - [Airbnb Style Guide](https://github.com/airbnb/javascript#variables) - great javascript style guide
+- [Async /Await](https://medium.com/@bluepnume/learn-about-promises-before-you-start-using-async-await-eb148164a9c8) - finally learnt async/await proper syntax use. Thanks Tom!
+- [x-clip](https://askubuntu.com/questions/383462/unable-to-paste-with-xclip-outside-of-terminal) - Using xclip to paste into ubuntu clipboard
+- Ubuntu CLI commands - `ctr-a/e` (move start/end), `ctr-u/k` (delete start/end) [Read](https://trello.com/c/5d7msXVC)
+- Rediscovered the beauty of Router.route('/').get(...).post(...) [API](https://expressjs.com/en/guide/routing.html)
+- `git checkout .` removes all unstaged tracked files
+- `git stash apply stash@{x}` allows you to apply changes repeatedly
