@@ -25,3 +25,4 @@ Today I Learnt
 - Rediscovered the beauty of Router.route('/').get(...).post(...) [API](https://expressjs.com/en/guide/routing.html)
 - `git checkout .` removes all unstaged tracked files
 - `git stash apply stash@{x}` allows you to apply changes repeatedly
+- Deployed Docker and docker-compose successfully! Thanks to [this article](https://medium.com/@nickpeleh/dockerizing-a-node-js-web-app-with-redis-and-postgresql-60ddc697b44)
