@@ -26,3 +26,8 @@ Today I Learnt
 - `git checkout .` removes all unstaged tracked files
 - `git stash apply stash@{x}` allows you to apply changes repeatedly
 - Deployed Docker and docker-compose successfully! Thanks to [this article](https://medium.com/@nickpeleh/dockerizing-a-node-js-web-app-with-redis-and-postgresql-60ddc697b44)
+- [ARIA] is for Accessibility Rich Internet Applications (https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_aria-label_attribute)
+- always preload before any operation in a changeset
+- An Elixir value always returns the value defined at the time of its definition
+- learnt some basic [psql](https://trello.com/c/3ZPR8Srg)
+- successfully migrated and seeded a Postgres DB using Knex
