@@ -31,3 +31,4 @@ Today I Learnt
 - An Elixir value always returns the value defined at the time of its definition
 - learnt some basic [psql](https://trello.com/c/3ZPR8Srg)
 - successfully migrated and seeded a Postgres DB using Knex
+- Learn how to compile top level .scss into .css [Thanks SO!](https://stackoverflow.com/questions/34896279/how-to-compile-scss-to-css-with-node-sass)
