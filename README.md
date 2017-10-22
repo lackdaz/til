@@ -1,7 +1,7 @@
 Today I Learnt
 ===
 
-- [Primitive Types](https://hexdocs.pm/ecto/Ecto.Schema.html)
+1. [Primitive Types](https://hexdocs.pm/ecto/Ecto.Schema.html)
 - [jsfuck](http://www.jsfuck.com/)
 - [ook](https://www.splitbrain.org/services/ook)
 - [elxir postgres practice](http://www.glydergun.com/diving-into-ecto/)
@@ -32,3 +32,5 @@ Today I Learnt
 - learnt some basic [psql](https://trello.com/c/3ZPR8Srg)
 - successfully migrated and seeded a Postgres DB using Knex
 - Learn how to compile top level .scss into .css [Thanks SO!](https://stackoverflow.com/questions/34896279/how-to-compile-scss-to-css-with-node-sass)
+- learnt how to [pass parameters into script tags](https://stackoverflow.com/questions/16098397/pass-variables-to-javascript-in-expressjs)
+#### End
