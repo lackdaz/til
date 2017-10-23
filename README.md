@@ -34,3 +34,4 @@ Today I Learnt
 - Learn how to compile top level .scss into .css [Thanks SO!](https://stackoverflow.com/questions/34896279/how-to-compile-scss-to-css-with-node-sass)
 - learnt how to [pass parameters into script tags](https://stackoverflow.com/questions/16098397/pass-variables-to-javascript-in-expressjs)
 #### End
+- `ctr`+`alt`+`f1` switches you to a virtual terminal, [READ THIS](https://askubuntu.com/questions/474932/help-i-broke-ubuntu-by-uninstalling-compiz) for ubuntu OS breaks
