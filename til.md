@@ -42,3 +42,6 @@ Today I Learnt
 - [An ExUnit beginner's cheatsheet](http://blog.lucidsimple.com/2016/01/31/exunit-cheat-sheet.html)
 Phoenix form helpers are at [Phoenix.HTML](https://hexdocs.pm/phoenix_html/Phoenix.HTML.Form.html)
 - use `sudo syscallbypid.d` to trace for syscalls [Read More](https://apple.stackexchange.com/questions/178281/how-to-investigate-high-kernel-task-memory-usage)
+- Made a terrible mistake regarding [circular dependencies](https://www.reddit.com/r/elixir/comments/6zvsxd/avoiding_circular_dependencies_in_a_phoenix/?st=j99b3s3b&sh=ae0560b3) - and I'm still trying to reconcile it
+- Learn how to migrate/rollback knex one at a time - by migrating one at a time(duh\!)
+- Learnt about [emmets](https://emmet.io/) - a fast way to write html
