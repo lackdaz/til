@@ -49,3 +49,4 @@ Phoenix form helpers are at [Phoenix.HTML](https://hexdocs.pm/phoenix_html/Phoen
 - Learnt how to use Ecto [cast_embed](https://hexdocs.pm/ecto/Ecto.Changeset.html#cast_embed/3), [add_error](https://hexdocs.pm/ecto/Ecto.Changeset.html#add_error) and that Ex's [reduce_while](https://hexdocs.pm/elixir/Enum.html#reduce_while/3) can have two heads
 - Compilers, interpreters, optimisations in [Javascript](https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/)
 - Learnt about [spread syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_operator) in JS
+- Dos and donts of Javascript [mutation](https://medium.com/@fknussel/arrays-objects-and-mutations-6b23348b54aa)
