@@ -50,3 +50,8 @@ Phoenix form helpers are at [Phoenix.HTML](https://hexdocs.pm/phoenix_html/Phoen
 - Compilers, interpreters, optimisations in [Javascript](https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/)
 - Learnt about [spread syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_operator) in JS
 - Dos and donts of Javascript [mutation](https://medium.com/@fknussel/arrays-objects-and-mutations-6b23348b54aa)
+- Learnt about Ecto.Changeset [fields](https://hexdocs.pm/ecto/Ecto.Changeset.html#module-the-ecto-changeset-struct)
+- Learnt about tranpose (`ctr+T`) to swap two letters
+- How to install [ngrok](https://gist.github.com/wosephjeber/aa174fb851dfe87e644e)
+
+- [Ecto.multi](https://hexdocs.pm/ecto/Ecto.Multi.html#content) is Ecto's version of a database transaction [Read More](https://medium.com/heresy-dev/a-brief-guide-to-ecto-multi-9c8ea0c729f0)
