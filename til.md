@@ -56,3 +56,5 @@ Phoenix form helpers are at [Phoenix.HTML](https://hexdocs.pm/phoenix_html/Phoen
 - [Ecto.multi](https://hexdocs.pm/ecto/Ecto.Multi.html#content) is Ecto's version of a database transaction [Read More](https://medium.com/heresy-dev/a-brief-guide-to-ecto-multi-9c8ea0c729f0)
 - Reminder on [mutability of javascript objects](https://wecodetheweb.com/2016/02/12/immutable-javascript-using-es6-and-beyond/)
 
+- [action fallback controllers](https://swanros.com/2017/03/04/action-fallback-contexts-phoenix1-3-tiny-controllers/) make phoenix controllers really, really lean
+- found [another TIL](https://til.hashrocket.com/elixir) done by the team at hashrocket\!
