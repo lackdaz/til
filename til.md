@@ -59,3 +59,5 @@ Phoenix form helpers are at [Phoenix.HTML](https://hexdocs.pm/phoenix_html/Phoen
 - [action fallback controllers](https://swanros.com/2017/03/04/action-fallback-contexts-phoenix1-3-tiny-controllers/) make phoenix controllers really, really lean
 - found [another TIL](https://til.hashrocket.com/elixir) done by the team at hashrocket\!
 - Best ever [article](https://medium.com/@gajus/using-dataloader-to-batch-requests-c345f4b23433) for understanding the N+1 problem in GraphQL and dataloading
+- Learnt basic graphQL using [absinthe](https://hexdocs.pm/absinthe/Absinthe.html)
+- Python: use "\" to use multi-line function expressions and ";\" to mark the end of a command and continuing on to a new line
