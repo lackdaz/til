@@ -61,3 +61,6 @@ Phoenix form helpers are at [Phoenix.HTML](https://hexdocs.pm/phoenix_html/Phoen
 - Best ever [article](https://medium.com/@gajus/using-dataloader-to-batch-requests-c345f4b23433) for understanding the N+1 problem in GraphQL and dataloading
 - Learnt basic graphQL using [absinthe](https://hexdocs.pm/absinthe/Absinthe.html)
 - Python: use "\" to use multi-line function expressions and ";\" to mark the end of a command and continuing on to a new line
+- Found out what [dd if=/dev/zero of=/dev/null bs=500M count=1](https://superuser.com/questions/580030/dd-from-dev-zero-to-dev-null-what-actually-happens) does
+- Going to try [this](https://nerves.build/posts/nerves-0-11) one of these weekends
+- ~, ^ and * in package.json and [what they do](http://gunnariauvinen.com/what-do-the-and-mean-in-package-json/)
